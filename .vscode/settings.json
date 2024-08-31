@@ -1,0 +1,11 @@
+{
+    "cmake.sourceDirectory": "D:/flutter project/udevstech/windows/flutter",
+    "java.home": "C:/Program Files/Java/jdk1.8.0_77",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-11",
+      "path": "C:/Program Files/Java/jdk-11",
+      "default": true
+    }
+  ]
+}
